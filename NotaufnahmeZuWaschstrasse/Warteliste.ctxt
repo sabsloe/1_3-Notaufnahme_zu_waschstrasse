@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Warteliste
+comment1.params=
+comment1.target=Warteliste()
+comment2.params=pat
+comment2.target=void\ einfuegen(Patient)
+comment3.params=
+comment3.target=Patient\ entfernen()
+numComments=4

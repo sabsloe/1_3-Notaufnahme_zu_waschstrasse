@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=inhalt_
+comment1.target=Knoten(Patient)
+comment2.params=k
+comment2.target=void\ setNachfolger(Knoten)
+comment3.params=
+comment3.target=Knoten\ getNachfolger()
+comment4.params=
+comment4.target=Patient\ getInhalt()
+numComments=5
